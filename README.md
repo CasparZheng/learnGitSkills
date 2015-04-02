@@ -1,7 +1,1 @@
-# learnGitSkills
-<<<<<<< HEAD
-ooooooooh.
-=======
-Creating a new branch is quick.
-heiheiheiehi.
->>>>>>> dev
+Creating a new branch is quick And a sample.
